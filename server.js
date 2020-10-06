@@ -4,10 +4,7 @@
 const express = require("express"); 
 const fs = require("fs"); 
 const path = require("path");
-//const jsonfile = require('jsonfile');
 const uniqid = require('uniqid');
-//const file = 'Develop/db/db.json';
-
 
 // Express and Heroku ports
 // =============================================================
@@ -19,7 +16,6 @@ const PORT = process.env.PORT || 3000;
 // ===========================================================
 app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
-//app.use(express.static(__dirname)); // Not 100% sure what this is
 app.use(express.static("public"));
 
 // Routes
