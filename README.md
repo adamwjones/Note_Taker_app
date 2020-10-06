@@ -45,5 +45,14 @@ Pease refer to their site for more details of the terms of use permittable.
 
 ### Screenshots
 
-* UI Output 
-<img src="#" width="700px">
+* UI of home screen 
+
+<img src="public/images/noteTakerUI1.png" width="700px">
+
+* UI of note taking screen  
+
+<img src="public/images/noteTakerUI2.png" width="700px">
+
+* UI of saving a note 
+
+<img src="public/images/noteTakerUI3.png" width="700px">
