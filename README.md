@@ -3,12 +3,12 @@
 [![License: Artistic-2.0](https://img.shields.io/badge/License-Artistic%202.0-0298c3.svg)](https://opensource.org/licenses/Artistic-2.0)
 
 ## Watch video here
-UPDATE LINK 
+https://youtu.be/RPyvRdu8PhI
 
 ## Description
 This project helps users organize their thoughts and keep track of tasks they need to complete through functionality that supports writing, saving, and deleting notes.
 
- This application uses an express backend and saves and retrieves note data from a JSON file. Finally, this app should be deployed on Heroku, as well. 
+ This application uses an express backend and saves and retrieves note data from a JSON file. Finally, this app should be deployed on Heroku, as well (https://desolate-shore-43837.herokuapp.com/) 
 
 ## Table of Contents
 
